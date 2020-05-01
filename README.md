@@ -5,13 +5,13 @@ E-commerce site "Solid Teez" using Django, Python, HTML, and CSS
 
 <h1>This is my e-commerce site project called Solid Teez.</h1
 
-<h2>I used Django and python to develop and HTML and CSS to create and style the web pages. I also used pillow to uplaod product images and celery to perform calculations.</h2>
+<h3>I used Django and python to develop and HTML and CSS to create and style the web pages. I also used pillow to uplaod product images and celery to perform calculations.</h3>
 
-<h3>Some things to note are folder names. "Locallibrary" is the name of my project that I created in Django and "Polls" is the main application.
+<h4>Some things to note are folder names. "Locallibrary" is the name of my project that I created in Django and "Polls" is the main application.
 These are by-products from different tutorials that I watched and worked through and I never got around to starting a new project that was more appropriately named.
-Besides that the other applications, "cart" and "orders" are straight forward.</h3>
+Besides that the other applications, "cart" and "orders" are straight forward.</h4>
 
-<h4>To work with this code you would need to Download and install Django and Python
+<h5>To work with this code you would need to Download and install Django and Python
 
 Next, you would need to create a file directory that will be the location, preferrably close to the root directory. 
 
@@ -21,7 +21,7 @@ Next you would create admin superuser
 
 Next you would need to make migrations to django database
 
-Next you would need to download and install pillow and celery with python</h4>
+Next you would need to download and install pillow and celery with python
 
-Next copy all files and folders from here to your apps and runserver
+Next copy all files and folders from here to your apps and runserver</h5>
 
